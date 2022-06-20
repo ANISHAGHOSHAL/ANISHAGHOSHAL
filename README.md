@@ -30,4 +30,8 @@ A passionate and dedicated Data Science enthusiast, believe in learning from eac
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishaghoshal&show_icons=true&locale=en&layout=compact" alt="anishaghoshal" /></p>
 
+<p align="center">
+  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/ANISHAGHOSHAL/count.svg" alt="Visitor Count" /></h2>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishaghoshal&show_icons=true&locale=en" alt="anishaghoshal" /></p>
