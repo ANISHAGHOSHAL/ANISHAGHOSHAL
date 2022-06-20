@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anisha Ghoshal</h1>
-<img src="https://www.pinterest.com/pin/437764026287645215/" width="30"> **About Me**
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6M8G.mp4">
 <h3 align="center">A passionate and dedicated Data Science enthusiast, believe in learning from each and every person and situation. Any new domain attracts me to dive into it and get my knowledge enriched. Proficient in programming languages like, Java, C and Python. Love to explore new technologies from where I can grab something unknown to me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishaghoshal&label=Profile%20views&color=0e75b6&style=flat" alt="anishaghoshal" /> </p>
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishaghoshal&show_icons=true&locale=en&layout=compact" alt="anishaghoshal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishaghoshal&show_icons=true&locale=en" alt="anishaghoshal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishaghoshal&" alt="anishaghoshal" /></p>
