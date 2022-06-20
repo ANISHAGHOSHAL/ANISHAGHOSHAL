@@ -8,7 +8,7 @@ A passionate and dedicated Data Science enthusiast, believe in learning from eac
 
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishaghoshal&label=Profile%20views&color=0e75b6&style=flat" alt="anishaghoshal" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishaghoshal&label=Profile%20views&color=0e75b6&style=flat" alt="anishaghoshal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishaghoshal" alt="anishaghoshal" /></a> </p>
 
@@ -33,5 +33,5 @@ A passionate and dedicated Data Science enthusiast, believe in learning from eac
 <p align="center">
   <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/ANISHAGHOSHAL/count.svg" alt="Visitor Count" /></h2>
 </p>
-
+<br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishaghoshal&show_icons=true&locale=en" alt="anishaghoshal" /></p>
