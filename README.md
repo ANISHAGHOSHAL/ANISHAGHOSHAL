@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
-A passionate and dedicated Data Science enthusiast, believe in learning from each and every person and situation. Any new domain attracts me to dive into it and get my knowledge enriched. Proficient in programming languages like, Java, C and Python. Love to explore new technologies from where I can grab something unknown to me.
+A passionate and dedicated Data Science enthusiast, believe in learning from each and every person and situation. Any new domain attracts me to dive into it and get my knowledge enriched. Love to explore new technologies from where I can grab something unknown to me.
 
 
 <br></br>
@@ -33,8 +33,8 @@ A passionate and dedicated Data Science enthusiast, believe in learning from eac
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishaghoshal&show_icons=true&locale=en&layout=compact" alt="anishaghoshal" /></p>
 <br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishaghoshal&show_icons=true&locale=en" alt="anishaghoshal" /></p>
 <br></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishaghoshal&show_icons=true&locale=en" alt="anishaghoshal" /></p>
 <br></br>
 <p align="center">
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/ANISHAGHOSHAL/count.svg" alt="Visitor Count" /></h2>
