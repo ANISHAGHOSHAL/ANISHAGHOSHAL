@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anisha Ghoshal</h1>
 <h3 align="center">A passionate and dedicated Data Science enthusiast, believe in learning from each and every person and situation. Any new domain attracts me to dive into it and get my knowledge enriched. Proficient in programming languages like, Java, C and Python. Love to explore new technologies from where I can grab something unknown to me.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.gifer.com/6M8G.gif)](https://i.gifer.com/6M8G.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishaghoshal&label=Profile%20views&color=0e75b6&style=flat" alt="anishaghoshal" /> </p>
