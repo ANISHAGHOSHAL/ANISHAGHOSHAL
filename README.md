@@ -2,7 +2,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30"> **About Me**   
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://www.123rf.com/photo_123541429_portrait-of-elegant-business-woman-with-arms-crossed-isolated-vector-illustration.html?vti=nvnp1efy5vsw8bdw93-1-102">
 
 A passionate and dedicated Data Science enthusiast, believe in learning from each and every person and situation. Any new domain attracts me to dive into it and get my knowledge enriched. Proficient in programming languages like, Java, C and Python. Love to explore new technologies from where I can grab something unknown to me.
 
