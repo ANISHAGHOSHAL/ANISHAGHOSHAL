@@ -18,7 +18,7 @@ A passionate and dedicated Data Science enthusiast, believe in learning from eac
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anisha-ghoshal-67b3b4192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anisha-ghoshal-67b3b4192/" height="30" width="40" /></a>
+<a href="linkedin.com/in/anisha-ghoshal-67b3b4192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anisha-ghoshal-67b3b4192/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anisha_ghoshal/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anisha_ghoshal/profile" height="30" width="40" /></a>
 </p>
 <br></br>
